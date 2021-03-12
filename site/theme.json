@@ -1,0 +1,62 @@
+{
+  "colors": {
+    "brandPrimary": "#feb8c8",
+    "brandSecondary": "white"
+  },
+  "fonts": {
+    "Bebas Neue": {
+      "url": "https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+    },
+    "Roboto": {
+      "url": "https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+    }
+  },
+  "texts": {
+    "default": {
+      "font-family": "Segoe UI, Roboto, Arial"
+    },
+    "heroSectionTitle": {
+      "font-family": "Bebas Neue",
+      "font-weight": "bolder",
+      "font-size": "3.5rem"
+    },
+    "sectionTitle": {
+      "font-family": "Roboto"
+    }
+  },
+  "buttons": {
+    "primary": {
+      "normal": {
+        "default": {
+          "text": {
+            "color": "$colors.brandSecondary"
+          },
+          "background": {
+            "background-color": "$colors.brandPrimaryDark05"
+          }
+        },
+        "hover": {
+          "text": {
+            "color": "$colors.brandPrimary"
+          },
+          "background": {
+            "background-color": "$colors.brandSecondary"
+          }
+        },
+        "press": {
+          "background": {
+            "background-color": "$colors.brandPrimaryDark10"
+          },
+          "text": {
+            "color": "$colors.brandSecondary"
+          }
+        },
+        "focus": {
+          "background": {
+            "outline-color": "$colors.brandPrimaryClear"
+          }
+        }
+      }
+    }
+  }
+}

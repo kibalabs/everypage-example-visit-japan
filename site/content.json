@@ -1,0 +1,224 @@
+{
+  "name": "Travel to Japan",
+  "tagline": "Japan Endless Discovery",
+  "description": "Travel to Japan with us. We have you covered with packages available for everyone.",
+  "faviconImageUrl": "/assets/favicon.ico",
+  "company": "Kiba Labs",
+  "sections": [
+    {
+      "type": "navbar-1",
+      "id": "navbar",
+      "buttons": [
+        {
+          "text": "Discover",
+          "target": "#discover"
+        },
+        {
+          "text": "Plans",
+          "target": "#plan-pricing"
+        },
+        {
+          "text": "Contact",
+          "target": "#contact"
+        }
+      ],
+      "background": {
+        "color": "#ffffff"
+      },
+      "logoImageUrl": "/assets/nav-logo.png",
+      "titleText": "",
+      "shouldStickToTop": true
+    },
+    {
+      "type": "hero-simple-1",
+      "id": "landing-section",
+      "background": {
+        "layers": [
+          {
+            "imageUrl": "/assets/travel-img-3"
+          },
+          {
+            "color": "rgba(0,0,0,0.4)"
+          }
+        ]
+      },
+      "isInverse": true,
+      "logoImageUrl": null,
+      "titleText": "Travel to Japan",
+      "subtitleText": "Discover the full range of amazing things to feel across Japan"
+    },
+    {
+      "id": "discover",
+      "type": "feature-media-half-1",
+      "background": {
+        "layers": [
+          {
+            "color": "rgb(253, 184, 200, 0.5)"
+          }
+        ]
+      },
+      "titleText": "Find inspiration for your Japan vacation",
+      "rightMediaUrl": null,
+      "subtitleText": "Arrive in Japan with a game plan. Discover the many events and festivals, temples and castles, theme parks and hot springs, beaches and outdoor activities that Japan has to offer. Whether you're passionate about sports, an art lover, a nature enthusiast, a history buff, a foodie, or just looking to relax on a beach, the possibilities for your Japan journey are endless.",
+      "leftMediaUrl": "/assets/travel-img-4"
+    },
+    {
+      "type": "image-slides-1",
+      "id": "gallery",
+      "background": {
+        "layers": [
+          {
+            "color": "rgba(254,184,200, 0.2)"
+          }
+        ]
+      },
+      "slides": [
+        {
+          "mediaUrl": "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80"
+        },
+        {
+          "mediaUrl": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+        },
+        {
+          "mediaUrl": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+        },
+        {
+          "mediaUrl": "https://images.unsplash.com/photo-1557409518-691ebcd96038?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+        },
+        {
+          "mediaUrl": "https://images.unsplash.com/photo-1551158423-100d177bfaae?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+        },
+        {
+          "mediaUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+        }
+      ],
+      "titleText": "Gallery",
+      "subtitleText": "Incredible Japan"
+    },
+    {
+      "id": "Preperation",
+      "type": "feature-media-half-1",
+      "background": {
+        "layers": [
+          {
+            "imageUrl": "/assets/20704253.jpg"
+          }
+        ]
+      },
+      "titleText": "Smooth your way with a little forward planning",
+      "leftMediaUrl": null,
+      "subtitleText": "It is easy to feel a little overwhelmed and disoriented when you visit Japan for the first time, so find out the basics before you fly and get acquainted with the country through our helping you plan guide.\nLearn a little more about Japan's customs, culture and Wi-Fi connectivity, as well as its seasonal weather, geography and luggage delivery options. Many of the questions first-time travelers might have are answered here, along with insider tips and practical advice to help you navigate the country with confidence.",
+      "rightMediaUrl": "https://images.unsplash.com/photo-1490677343801-763ce536dfb3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+    },
+    {
+      "type": "pricing-tiers-1",
+      "id": "plan-pricing",
+      "titleText": "Travel Packages",
+      "boxVariant": "bordered",
+      "background": {
+        "layers": [
+          {
+            "color": "rgba(254,184,200, 0.2)"
+          }
+        ]
+      },
+      "categories": [
+        {
+          "cost": "$99.9",
+          "name": "Standard",
+          "features": [
+            {
+              "text": "5 Destinations"
+            },
+            {
+              "text": "7 days 6 nights"
+            },
+            {
+              "text": "3 star accommodation included"
+            },
+            {
+              "text": "sight-seeing included"
+            }
+          ],
+          "buttonText": "Book now",
+          "buttonTarget": "#contact",
+          "costFrequency": "per night",
+          "explanationText": ""
+        },
+        {
+          "cost": "$149.9",
+          "name": "Delux",
+          "features": [
+            {
+              "text": "7 Destinations"
+            },
+            {
+              "text": "7 days 6 nights"
+            },
+            {
+              "text": "3 star accommodation included"
+            },
+            {
+              "text": "sight-seeing included"
+            },
+            {
+              "text": "meals included"
+            }
+          ],
+          "costFrequency": "per night",
+          "buttonText": "Book now",
+          "buttonTarget": "#contact"
+        },
+        {
+          "cost": "$239.9",
+          "name": "Premium",
+          "features": [
+            {
+              "text": "8 Destinations"
+            },
+            {
+              "text": "10 days 9 nights"
+            },
+            {
+              "text": "sight-seeing included"
+            },
+            {
+              "text": "5 star accommodation included"
+            },
+            {
+              "text": "meals included"
+            }
+          ],
+          "costFrequency": "per night",
+          "buttonText": "Book now",
+          "buttonTarget": "#contact"
+        }
+      ],
+      "subtitleText": "Travel to Japan with us. We have you covered with packages available for everyone."
+    },
+    {
+      "type": "contact-1",
+      "id": "contact",
+      "background": {
+        "layers": [
+          {
+            "color": "rgb(253, 184, 200,0.5)"
+          }
+        ]
+      },
+      "titleText": "Contact us",
+      "formAction": "POST",
+      "formTarget": "https://api.kiba.dev/v1/send-email",
+      "subtitleText": null,
+      "inputButtonText": "Request quote",
+      "formAdditionalInputs": [
+        {
+          "name": "emailTarget",
+          "type": "text",
+          "value": "test"
+        }
+      ],
+      "inputSuccessMessageText": "Thanks, we will be in touch soon."
+    }
+  ]
+}
