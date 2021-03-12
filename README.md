@@ -14,6 +14,7 @@
 ```
 4. After completing your site, build the site using `npm run build` command.
 
+5. Deploy the `./dist` folder to see your site in action.
 
 # Tips
 You can use the EveryPage [canvas](https://console.everypagehq.com/canvas) to create your website. This is completely optional but you can use the canvas features to create your website real quick and it helps you focus more on your site's content.
