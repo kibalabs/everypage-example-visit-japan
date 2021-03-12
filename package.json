@@ -1,0 +1,16 @@
+{
+  "name": "everypage-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "everypage build --clean --directory ./site --output-directory ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kibalabs/everypage": "^0.8.3",
+    "@kibalabs/everypage-cli": "^0.8.3"
+  }
+}
